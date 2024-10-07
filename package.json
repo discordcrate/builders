@@ -1,7 +1,7 @@
 {
   "name": "@discordcrate/builders",
   "description": "The builders for discord.crate",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "dist/src/index.js",
   "scripts": {
     "build": "tsc --noEmit",
