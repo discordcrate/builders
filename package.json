@@ -5,7 +5,8 @@
   "main": "dist/src/index.js",
   "scripts": {
     "build": "tsc --noEmit",
-    "test": "tsc && node tests/Embeds.js"
+    "test": "tsc && node tests/Embeds.js",
+    "release": "cliff-jumper"
   },
   "author": "0saphhy",
   "license": "Apache-2.0",
