@@ -1,10 +1,10 @@
 {
   "name": "@discordcrate/builders",
   "description": "The builders for discord.crate",
-  "version": "0.0.4",
-  "main": "dist/src/index.js",
+  "version": "0.0.5",
+  "main": "dist/index.js",
   "scripts": {
-    "build": "tsc --noEmit",
+    "build": "tsc",
     "test": "tsc && node tests/Embeds.js",
     "release": "cliff-jumper"
   },
